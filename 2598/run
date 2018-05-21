@@ -1,0 +1,2 @@
+clear
+python 2598.py < in1.txt
