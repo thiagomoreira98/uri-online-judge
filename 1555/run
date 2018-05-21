@@ -1,0 +1,2 @@
+clear
+python 1555.py < in1.txt
